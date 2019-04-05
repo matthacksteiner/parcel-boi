@@ -6,6 +6,11 @@ Minimal boilerplate for parcel powered project
 
 Clone and cd into the repository and run `yarn`
 
+## Includes
+imagemin
+sass
+cleandist
+
 ### Development mode
 
     yarn dev
